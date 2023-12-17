@@ -1,0 +1,5 @@
+GET http://localhost:3000/tracks
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NTdjZDliNDljMzM4MmM0MDE5Y2NiZDMiLCJpYXQiOjE3MDI2ODI1OTh9._va8kZfB6w8AHWye2Rh_DPVV9u79vvpEu4tJbKzreqo
+
+

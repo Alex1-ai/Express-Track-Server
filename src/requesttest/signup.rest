@@ -1,0 +1,24 @@
+POST http://localhost:3000/signup
+Content-Type: application/json
+# Authorization: 
+
+{
+    "email":"test1@test.com",
+    "password":"mypassword"
+    // "title": "Open Source",
+    // "author": "Alex1-ai",
+    // "url": "https://localhost:3003/api/blogs/open-source",
+    // "likes": 4,
+    // "userId": "64c92d4fb693f653f2dfe03c"
+
+    
+}
+
+// token : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NTdjY2E0ZGFiYzgyMGNjYmFlNGY4MDkiLCJpYXQiOjE3MDI2NzcwNzB9.aQYijPoo6i_xs5UR5SNCe8wZKqA4PI7AOG_dIFuR5VQ"
+
+
+
+# for test2@gmail.com
+# {
+#   "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NTdjY2E0ZGFiYzgyMGNjYmFlNGY4MDkiLCJpYXQiOjE3MDI2NzcwNzB9.aQYijPoo6i_xs5UR5SNCe8wZKqA4PI7AOG_dIFuR5VQ"
+# }
