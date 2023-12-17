@@ -15,7 +15,7 @@ app.use(authRoutes)
 app.use(trackRoutes)
 
 
-const mongoUri = "mongodb+srv://admin-alex:admin-alex@cluster0.l9qd8.mongodb.net/?retryWrites=true&w=majority"
+const mongoUri = "your mongodb api key"
 mongoose.connect(mongoUri)
 
 
